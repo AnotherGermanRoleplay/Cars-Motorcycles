@@ -8,7 +8,7 @@ All motorcycles (addon &amp; replace) of AGRP, ready to be implemented in FiveM.
 |-----------------------|-----------------------|-----------------------|
 | Commercial Use	| Disclose source	| Liability		|
 | Distribution		| License and copyright notice	| Warranty	|
-| Modification		| Samel icense		|			|
+| Modification		| Same license		|			|
 | Patent use		| State changes		|			|
 | Private use		|			|			|
 
